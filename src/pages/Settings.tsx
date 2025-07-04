@@ -7,7 +7,6 @@ const Settings = () => {
   return (
     <div>
       <h2 className="text-2xl font-bold mb-5">Settings</h2>
-      
 
       <ThemeSwitcher />
 
